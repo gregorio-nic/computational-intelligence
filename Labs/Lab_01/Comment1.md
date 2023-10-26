@@ -8,4 +8,4 @@ In a first analysis we thought it was a good solution, but we ran into some inco
 
 The first set taken will influence future choices, even leading the algorithm to using more sets than necessary. In fact, the solution identified (also not correctly) as best, will always be the one on top of the Priority Queue.
 
-Unfortunately, we thought this was a parallel solution to what Professor Squillero showed us in class but it turned out not to be so.
+Unfortunately, we thought this was a parallel solution to what Professor Squillero showed us in class (h3 function) but it turned out not to be so.
