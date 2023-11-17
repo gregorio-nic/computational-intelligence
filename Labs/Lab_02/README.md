@@ -37,8 +37,6 @@ Users can also tune our different strategies by adjusting population size (mu), 
 
 ## Conclusion 
 The agent with genotype  has a winning rate on avarage of % against the optimal algorithm.
-![Fitness of Agent vs Optimal over generation]()
-![Win rates of 1000 matches divided in 100 games batches]()
 
 ## Contributing
 Made with the contribution of Lorenzo Ugoccioni s315734
