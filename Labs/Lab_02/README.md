@@ -36,7 +36,7 @@ In the conclusion part, we are taking into consideration only the (mu+lambda) st
 Users can also tune our different strategies by adjusting population size (mu), offspring size (lamba), number of generations, mutation step (sigma) and number of row of the game.
 
 ## Conclusion 
-The agent with genotype  has a winning rate on avarage of % against the optimal algorithm.
+The agent with genotype  has a winning rate on avarage of 32% against the optimal algorithm.
 
 ## Contributing
 Made with the contribution of Lorenzo Ugoccioni s315734
