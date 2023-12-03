@@ -7,8 +7,8 @@ In order to do so, we had to obtain an individual in our population with fitness
 We started thinking about how we could mantain some diversity among our population. 
 We decided to implement an algorithm following the island idea.
 
-In order to do so, we generated xxx different population of xxx individuals each and made them evolve (recombination using the crossover function and mutation) separately, exploiting *migration* every xxx "separated" generations.
-After each era (= num of generations on separate islands), we selected the 2 best individuals of each island and put them in another island, randomly. After this operation, the separate evolution would take again place and so on.
+In order to do so, we generated 10 different population of 15 individuals each and made them evolve (recombination using the crossover function and mutation) separately, exploiting *migration* every 5 "separated" generations.
+After each era (= num of generations on separate islands), we selected the 2 best individuals of each island and put them on another island, randomly. After this operation, the separate evolution would take again place and so on.
 
 ## Initialization
 We decided to initialize the population randomly and distributing the individuals on the different islands.
