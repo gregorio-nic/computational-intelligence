@@ -26,5 +26,7 @@ It can be seen from the graph in the notebook that we're able to get 74% wins on
 
 We can see that, at the end, we can get decent results when playing against random player.
 
+![Alt text](./results.jpg?raw=true "Title")
+
 ## Contributing
 Made with the contribution of Lorenzo Ugoccioni s315734
