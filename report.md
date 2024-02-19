@@ -1089,7 +1089,7 @@ To reduce the number of actions that my player or the other are trying to make i
 Finally, I cut the depth of the tree to 2 so I'm evaluating the states only two moves ahead of the current move, obiously if in the meantime some branches haven't reached a winning state.
 
 ### Results:
-Overall, I got a winning rate over the RandomPlayer() of nearly 97% by playing 50% of the times as firstPlayer and 50% as second on 1000 games.
+Overall, I got a winning rate over the RandomPlayer() of nearly 97% by playing 50% of the times as first and 50% as second on 1000 games.
 
 ### Code:
 #### main.py
